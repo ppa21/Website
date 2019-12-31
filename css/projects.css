@@ -1,0 +1,70 @@
+.navbar-inverse{
+	background: black;
+  color: white;
+  padding: 3px;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+	color:white;
+	font-size: 25px;
+	padding-top: 15px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	font-size: 17px;
+	padding-top: 17px;
+  margin-left: 10px;
+} 
+
+.nav{
+  margin-left: 25px;
+}
+
+body {
+  background: url(https://images.unsplash.com/photo-1551309292-e185c0b6e22a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body, html{
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  /*border: 2px white solid;*/
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+}
+
+figure{
+  margin-top: 40px;
+}
+
+figcaption{
+	color: white;
+  text-align: center;
+}
+
+.projectThumbnail{
+  margin-top: 60px;
+  margin-left: 7px;
+}
+
+.projectThumbnail2 {
+  margin-top: 60px;
+  margin-left: 7px;
+}
+
+

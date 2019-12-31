@@ -1,0 +1,49 @@
+.navbar-inverse{
+  background: black;
+  color: white;
+  padding: 3px;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+  color:white;
+  font-size: 25px;
+  padding-top: 15px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+  font-size: 17px;
+  padding-top: 17px;
+  margin-left: 10px;
+} 
+
+.nav{
+  margin-left: 25px;
+}
+
+.appPhoto{
+  height: 600px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+body {
+  /*background: url(https://images.unsplash.com/photo-1551464885-21348ccc8b67?ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80);*/
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:   rgb(216,191,216);
+}
+
+body, html{
+  margin-top: 30px;
+  width: 100%;
+  height: 100%;
+}
+
+h4{
+	font-weight: 349;
+}
+
+
